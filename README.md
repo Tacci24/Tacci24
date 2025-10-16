@@ -13,7 +13,7 @@ Currently mastering **React.js** on the frontend and diving deep into **backend 
 
 
 ### Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS 
 - **Tools:** Git, GitHub, Netlify, Vercel  
 - **Learning:** Node.js, Express, Databases  
 
